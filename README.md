@@ -29,6 +29,7 @@ cd compiler/distribution
 cd build/bip-full
 source ./setup.sh
 
+#### to reactivate Bip Compiler
 source /root/compiler/distribution/build/bip-full/setup.sh
 
 # Building C++ executable for image classification
