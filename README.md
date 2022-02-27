@@ -38,7 +38,7 @@ cp limit ../../model/ext-cpp
 ```
 # 3. Executing the BIP model
 
-#### 3.0 to reactivate Bip Compiler
+To reactivate Bip Compiler
 ```bash
 source /root/compiler/distribution/build/bip-full/setup.sh
 ```
