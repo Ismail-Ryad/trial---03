@@ -28,10 +28,7 @@ cd compiler/distribution
 cd build/bip-full
 source ./setup.sh
 ```
-#### 1.3.2.1 to reactivate Bip Compiler
-```bash
-source /root/compiler/distribution/build/bip-full/setup.sh
-```
+
 # 2. Building C++ executable for image classification
 
 ```bash
@@ -40,6 +37,11 @@ source setup.sh
 cp limit ../../model/ext-cpp
 ```
 # 3. Executing the BIP model
+
+#### 3.0 to reactivate Bip Compiler
+```bash
+source /root/compiler/distribution/build/bip-full/setup.sh
+```
 
 ```bash
 cd model
