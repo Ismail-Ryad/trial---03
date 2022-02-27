@@ -2,10 +2,10 @@
 
 ## 1.1. LibTorch
 
-bash
+```bash
 wget https://download.pytorch.org/libtorch/lts/1.8/cpu/libtorch-cxx11-abi-shared-with-deps-1.8.2%2Bcpu.zip 
 unzip libtorch-cxx11-abi-shared-with-deps-1.8.2%2Bcpu.zip
-
+```
 ## 1.2. OpenCV
 
 bash
